@@ -8,16 +8,16 @@ class Solution {
         for(int sayi: nums){
             test[sayi] += sayi; 
         }
-        int almak=0;
-        int atlamak=0;
+        int take=0;
+        int skip=0;
        for(int i=0; i<test.length;i++){
          
-         int almaki = atlamak + test[i];  //bir öncekinin en buyugu + şuanın degeri
-         int atlamaki = Math.max(atlamak,almak);  //bir öncekinin en buyugu
-         almak = almaki;
-         atlamak = atlamaki;
+         int takei = skip + test[i];  //bir öncekinin en buyugu + şuanın degeri
+         int skipi = Math.max(skip,take);  //bir öncekinin en buyugu
+         take = takei;
+         skip = skipi;
        
        }
-       return Math.max(almak,atlamak);
+       return Math.max(take,skip);
     }
 }
