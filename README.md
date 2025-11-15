@@ -5,8 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0740-delete-and-earn) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0740-delete-and-earn) |
+## Hash Table
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
