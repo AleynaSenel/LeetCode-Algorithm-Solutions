@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
 | [0198-house-robber](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0740-delete-and-earn) |
 ## Dynamic Programming
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AleynaSenel/LeetCode-Algorithm-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
